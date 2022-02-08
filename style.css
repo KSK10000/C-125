@@ -1,0 +1,24 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 3px 3px 3px cadetblue;
+}
+.NOTE{
+    font-size: 15px;
+    color: black;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    width: 100%;
+}
+canvas{
+    border: 2px solid cadetblue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px rgb(6, 174, 216);
+}
